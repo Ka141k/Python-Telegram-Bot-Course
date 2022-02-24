@@ -3,7 +3,7 @@ Programming telegram bot on python
 
 
 # En:
-Programming telegram bot on python and push videos on youtube channel
+Programming telegram bot on python and create videos on youtube channel
 
 In this repository, you watch telegram bot source code in my programming
 
